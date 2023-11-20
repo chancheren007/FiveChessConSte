@@ -1,0 +1,16 @@
+pos:(9, 10), scores:205
+pos:(6, 7), scores:203
+pos:(8, 6), scores:160
+pos:(9, 8), scores:128
+pos:(7, 6), scores:55
+pos:(6, 10), scores:50
+pos:(6, 8), scores:23
+pos:(7, 10), scores:21
+pos:(8, 10), scores:21
+pos:(9, 9), scores:21
+pos:(10, 7), scores:18
+pos:(9, 6), scores:8
+pos:(10, 8), scores:8
+pos:(6, 9), scores:6
+pos:(10, 6), scores:6
+pos:(6, 6), scores:3

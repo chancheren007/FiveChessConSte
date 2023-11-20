@@ -1,0 +1,8 @@
+pos:(6, 6), scores:5
+pos:(6, 7), scores:5
+pos:(6, 8), scores:5
+pos:(7, 6), scores:5
+pos:(7, 8), scores:5
+pos:(8, 6), scores:5
+pos:(8, 7), scores:5
+pos:(8, 8), scores:5
